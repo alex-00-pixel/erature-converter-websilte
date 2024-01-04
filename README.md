@@ -18,6 +18,6 @@ This is a simple and responsive temperature converter website that allows users 
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/temperature-converter.git
+   git clone https://github.com/alex-00-pixel/temperature-converter-websilte.git
 ## License
 This project is licensed under the MIT License.
