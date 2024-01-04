@@ -1,7 +1,7 @@
 # Temperature Converter
 
 ![web-page PC view](temperature_converter_pc_view.png)
-![Webpage Mobile View}(temperature_converter_mobile_view.jpeg)
+![Webpage Mobile View](temperature_converter_mobile_view.jpeg)
 
 ## Overview
 
