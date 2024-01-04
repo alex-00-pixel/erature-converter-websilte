@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="stylesheet" href="style.css" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Temprature converter</title>
+    <script src="logic.js"></script>
+  </head>
+  <body>
+    <h1 class="animate">TEMPRATURE CONVERTER</h1>
+    <div id="From">
+      <select name="name" id="from">
+        <option value="celcious">Celsius</option>
+        <option value="Farenhite">Fahrenheit</option>
+        <option value="kelvin">kelvin</option>
+      </select>
+      <input type="number" id="enter-input" placeholder="Input" />
+    </div>
+    <button onclick="convertTemperature()">CONVERT</button>
+    <div id="To">
+      <select name="name" id="to">
+        <option value="celcious">Celsius</option>
+        <option value="Farenhite" selected>Fahrenheit</option>
+        <option value="kelvin">kelvin</option>
+      </select>
+      <input type="number" id="show-output" readonly />
+    </div>
+  </body>
+</html>
