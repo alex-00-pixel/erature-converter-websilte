@@ -1,6 +1,6 @@
 # Temperature Converter
 
-![web-page](link/to/temperature_converter_mobile_view.jpeg)
+![web-page](temperature-converter-websilte/temperature_converter_pc_view.png)
 
 ## Overview
 
