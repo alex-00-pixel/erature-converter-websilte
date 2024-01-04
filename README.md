@@ -1,6 +1,6 @@
 # Temperature Converter
 
-![Temperature Converter](temprature converter/temperature_converter_mobile_view.jpeg)
+![Temperature Converter](link/to/temperature_converter_mobile_view.jpeg)
 
 ## Overview
 
