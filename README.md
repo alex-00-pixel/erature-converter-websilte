@@ -1,4 +1,4 @@
-# Temperature Converter
+# Temperature Converter website using HTML CSS and JavaScript 
 
 ![web-page PC view](temperature_converter_pc_view.png)
 ![Webpage Mobile View](temperature_converter_mobile_view.png)
